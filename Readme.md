@@ -14,7 +14,7 @@ Compile :
 
 ```
   -p, --path <value>       Input CSV file path
-  -c, --column-update    A comma separated list columns to transfrom:  existingColName|name|newColName|newDataType,existingColName|name|newColName|newDataType|dateExpression
+  -c, --column-update    A comma separated list of columns to transfrom:  existingColName|name|newColName|newDataType,existingColName|name|newColName|newDataType|dateExpression
 
 
 ```
