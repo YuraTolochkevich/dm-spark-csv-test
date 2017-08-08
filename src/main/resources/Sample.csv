@@ -1,0 +1,8 @@
+name,age,birthday,gender,City
+John,26,26-01-1995,male,New-York
+Lisa,xyz,26-01-1995,female,London
+,26,26-01-1995,male,Milan
+Julia,  ,26-01-1995,female,Nice
+    ,,26-01-1995,Palma
+Pete,  ,26-01-1995,Lisbon
+Lol,,26-01-12,male,Kiev
